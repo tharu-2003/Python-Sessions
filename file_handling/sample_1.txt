@@ -1,0 +1,4 @@
+This is Python and Data Scince Module.
+I love Programming
+This is awesom
+I live in Gallewe are writing to a file 
