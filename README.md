@@ -66,15 +66,6 @@ python filename.py
 ### **Tharusha Sandaruwan**
 *Software Engineering Student @ IJSE*
 
-I am a passionate 2nd-year Software Engineering student with a strong focus on Full-Stack development and Data Science. I love building scalable applications and exploring data through visualization.
-
-### 🌟 Technical Expertise
-* **Languages:** Java, Python
-* **Web Technologies:** React, Tailwind CSS
-* **Databases:** MySQL, MongoDB, Firebase
-* **Data Visualization:** Matplotlib, Seaborn
-* **Deployment:** Vercel, Git/GitHub
-
 ### 📫 Let's Connect!
 Feel free to reach out to me for collaborations or just a friendly tech chat:
 
